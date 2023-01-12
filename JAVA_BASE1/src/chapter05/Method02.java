@@ -1,0 +1,8 @@
+package chapter05;
+
+public class Method02 {
+	
+
+	
+
+}
